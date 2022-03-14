@@ -1,7 +1,7 @@
 # HAGIWO 019/022/023 Triple Oscillator (FM/CHORD/ADDITIVE)
 4HP through hole version of the HAGIWO FM/additive/chord oscillator with mode switch and gain input.
 
-This module is basically my PCB version of [luis lutz HAGIWO oscillator module](https://github.com/luislutz/Arduino-VDCO).
+This module is basically my PCB version of the HAGIWO osc, heavily inspired by [luis lutz HAGIWO oscillator module](https://github.com/luislutz/Arduino-VDCO).
 The main difference is since I could not get his code to work without major audio problems, I rewrote the entire thing myself.
 
 The module combines three different oscillators from HAGIWO,  with a mode switch (and mode cv input) to switch between them.
