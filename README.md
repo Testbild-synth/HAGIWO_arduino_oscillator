@@ -17,7 +17,7 @@ You can find the schematic and BOM in the root folder.
 For the potentiometers, any value between 1k and 100k should be fine.
 
 The module has three PCBs: a panel PCB, a main PCB and a controls pcb.
-You can order them on any common PCB manufacturing service, I used JLCPCB. For the circuit PCB, standard settings should be fine.
+You can order them on any common PCB manufacturing service, I used JLCPCB. For the circuit PCBs, standard settings should be fine.
 For the panel, since it has copper exposed, make sure to choose a lead free surface finish (LeadFree HASL, ENIG) and/or spraypaint your panels so that you don't get lead on your hands.
 
 Assembly is pretty straight forward. Since it is so crowded, make sure to do the resistors first before the headers so you have more space to work.
