@@ -10,6 +10,10 @@ Additionally, it has a gain input that normals so that it is only used when you 
 ## STATUS: CONFIRMED WORKING. Took me a long time to figure out the code, but now everything works as intended (I think, if you encounter any problems let me know).
 
 ## Hardware and PCB
+<img src="images/panel.jpg" width="30%" height="30%">
+<img src="images/front_pcb.jpg" width="30%" height="30%">
+<img src="images/main_pcb.jpg" width="30%" height="30%">
+
 You can find the schematic and BOM in the root folder.
 For the potentiometers, any value between 1k and 100k should be fine.
 
