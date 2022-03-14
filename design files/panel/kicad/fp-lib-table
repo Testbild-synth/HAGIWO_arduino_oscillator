@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "hagiwo_triple")(type KiCad)(uri "$(KIPRJMOD)/hagiwo_triple.pretty")(options "")(descr ""))
+)
