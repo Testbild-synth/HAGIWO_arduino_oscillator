@@ -1,4 +1,5 @@
 # HAGIWO 019/022/023 Triple Oscillator (FM/CHORD/ADDITIVE)
+<img src="images/in_rack.jpg" width="10%" height="10%">
 4HP through hole version of the HAGIWO FM/additive/chord oscillator with mode switch and gain input.
 
 This module is basically my PCB version of the HAGIWO osc, heavily inspired by [luis lutz HAGIWO oscillator module](https://github.com/luislutz/Arduino-VDCO).
@@ -25,5 +26,6 @@ Also make sure to put the headers connecting both PCBs in the correct direction 
 
 The only thing there is to tune is a trimpot that sets output gain (as arduino is 0-5V output and I wanted to be able to make mine louder). Tune it to your liking.
 
-Will upload build pictures later
+<img src="images/both_parts.jpg" width="10%" height="10%">
+<img src="images/side.jpg" width="10%" height="10%">
 
