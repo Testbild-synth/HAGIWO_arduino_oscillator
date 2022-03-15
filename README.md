@@ -2,13 +2,13 @@
 <img src="images/in_rack.jpg" width="40%" height="40%">
 4HP through hole version of the HAGIWO FM/additive/chord oscillator with mode switch and gain input.
 
-This module is basically my PCB version of the HAGIWO osc, heavily inspired by [luis lutz HAGIWO oscillator module](https://github.com/luislutz/Arduino-VDCO).
+This module is basically my PCB version of the HAGIWO osc, heavily inspired by [luis lutz version](https://github.com/luislutz/Arduino-VDCO).
 The main difference is since I could not get his code to work without major audio problems, I rewrote the entire thing myself.
 
 The module combines three different oscillators from HAGIWO,  with a mode switch (and mode cv input) to switch between them.
 Additionally, it has a gain input that normals so that it is only used when you plug in a jack.
 
-## STATUS: CONFIRMED WORKING. Took me a long time to figure out the code, but now everything works as intended (I think, if you encounter any problems let me know).
+### STATUS: CONFIRMED WORKING. Took me a long time to figure out the code, but now everything works as intended (I think, if you encounter any problems let me know).
 
 ## Hardware and PCB
 <img src="images/panel.JPG" width="10%" height="10%"><img src="images/front_pcb.JPG" width="12%" height="12%"><img src="images/main_pcb.JPG" width="13%" height="13%">
