@@ -11,7 +11,7 @@ Additionally, it has a gain input that normals so that it is only used when you 
 ### STATUS: Revision 1.1 PCB with slight modifications to make the build easier.
 
 ## Hardware and PCB
-
+<img src="images/panel.JPG" width="10%" height="10%"><img src="images/front_pcb.JPG" width="12%" height="12%"><img src="images/main_pcb.JPG" width="13%" height="13%">
 
 You can find the schematic and BOM in the root folder.
 For the potentiometers, any value between 10k and 100k should be fine.
