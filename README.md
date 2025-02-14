@@ -8,7 +8,7 @@ The main difference is since I could not get his code to work without major audi
 The module combines three different oscillators from HAGIWO,  with a mode switch (and mode cv input) to switch between them.
 Additionally, it has a gain input that normals so that it is only used when you plug in a jack.
 
-### STATUS: CONFIRMED WORKING. Took me a long time to figure out the code, but now everything works as intended (I think, if you encounter any problems let me know).
+### STATUS: Revision 1.1 PCB with slight modifications to make the build easier.
 
 ## Hardware and PCB
 <img src="images/panel.JPG" width="10%" height="10%"><img src="images/front_pcb.JPG" width="12%" height="12%"><img src="images/main_pcb.JPG" width="13%" height="13%">
