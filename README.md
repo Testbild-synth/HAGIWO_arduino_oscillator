@@ -29,3 +29,10 @@ The only thing there is to tune is a trimpot that sets output gain (as arduino i
 <img src="images/both_parts.jpg" width="40%" height="40%">
 <img src="images/side.jpg" width="40%" height="40%">
 
+## Build
+
+Most of the build is relatively straight forward. be sure to actually have fitting values for the resistors that need to be precise. These are indicated with % on the board and in the bom.      
+One thing to watch out for is that due to size constraints I oriented one row of thonkiconn jacks to face another one and have the grounds go into the same hole.
+So top two rows face each other, ground legs go into the same hole.
+
+
